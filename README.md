@@ -1,11 +1,16 @@
-## Bem-vindo(a) ao perfil de S4t8rn0 😁
+## Bem-vindo(a) ao meu perfil no Github! 😁
+Me chamo **Gabriella Fernandes**. 🌌  
+Sou uma desenvolvedora front-end em formação, apaixonada por tecnologia, criatividade e inovação.  
+Atualmente, curso Engenharia da Computação e estou sempre em busca de aprender novas ferramentas e linguagens.
 
+### Github stats:
  <div>
    <a href="https://github.com/S4t8rn0">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S4t8rn0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4t8rn0&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-    
+
+### Tecnologias que utilizo:
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
