@@ -28,7 +28,7 @@ Recursos:
 - Armazenamento no LocalStorage
 - Interface responsiva e moderna
 <div align="center">
- <img src="https://github.com/user-attachments/assets/f08bd98c-e95d-4145-b9e7-1bb2f518bad8" height="200" style="border-radius: 10px;"/>
+ <img src="https://github.com/user-attachments/assets/f08bd98c-e95d-4145-b9e7-1bb2f518bad8" height="200" style="border-radius: 20px;"/>
 </div>
 
 <br>
