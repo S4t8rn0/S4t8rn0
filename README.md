@@ -26,7 +26,7 @@ Um projeto simples e funcional de lista de tarefas feito com HTML, CSS e JavaScr
 Recursos:
 - Adição e remoção dinâmica de tarefas
 - Armazenamento no LocalStorage
-- Interface responsiva e moderna
+- Interface moderna
 <div align="center">
  <img src="https://github.com/user-attachments/assets/f08bd98c-e95d-4145-b9e7-1bb2f518bad8" height="200" style="border-radius: 20px;"/>
 </div>
