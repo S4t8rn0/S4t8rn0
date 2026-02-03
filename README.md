@@ -4,10 +4,11 @@ Sou uma desenvolvedora front-end em formação, apaixonada por tecnologia, criat
 Atualmente, curso Engenharia da Computação e estou sempre em busca de aprender novas ferramentas e linguagens.
 
 ### Github stats:
- <div>
-   <a href="https://github.com/S4t8rn0">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S4t8rn0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4t8rn0&layout=compact&langs_count=6&theme=tokyonight"/>
+<div align="center">
+  <a href="https://github.com/S4t8rn0">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S4t8rn0&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4t8rn0&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  </a>
 </div>
 
 ### Tecnologias que utilizo:
