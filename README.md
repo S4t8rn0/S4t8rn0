@@ -20,18 +20,6 @@ Atualmente, curso Engenharia da Computação e estou sempre em busca de aprender
   <img align="center" alt="Arduíno" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">         
 </div>
 
- ### Projetos em destaque:
-🧠 [**ToDo List com JavaScript**](https://github.com/S4t8rn0/to-do-list)  
-Um projeto simples e funcional de lista de tarefas feito com HTML, CSS e JavaScript puro.  
-Recursos:
-- Adição e remoção dinâmica de tarefas
-- Armazenamento no LocalStorage
-- Interface moderna
-<div align="center">
- <img src="https://github.com/user-attachments/assets/f08bd98c-e95d-4145-b9e7-1bb2f518bad8" height="200" style="border-radius: 20px;"/>
-</div>
-
-<br>
  
 ### Minhas redes sociais abaixo!
  
